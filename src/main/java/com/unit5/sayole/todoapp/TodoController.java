@@ -10,6 +10,6 @@ public class TodoController {
 
     @GetMapping
     public String hello(){
-        return "To-do Application !";
+        return "To-Do Application !";
     }
 }
